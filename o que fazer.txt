@@ -1,0 +1,8 @@
+1- criar um projeto chamado bancosc
+2- criar apps (conta_do_banco, cliente, deposito, transferencia)
+	cliente tem uma conta do banco
+3- layout: 	onde tiver Jhon doe, mostra o nome do cliente,
+		onde tiver o numero do cartão (123-xxx) é o numero da conta
+		onde tiver o 20mil mostra o saldo da conta
+		onde tem gastos/dispesas mostrar transferencias dele (soma das transferencias)
+		onde tem transações recentes, são os depositos (mostrar de no minimo 2 para cima)
